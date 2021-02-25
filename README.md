@@ -17,5 +17,5 @@ Crianças valem por 0,5
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - HTML
-- CSS
+- SCSS
 - JavaScript
